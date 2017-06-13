@@ -1,0 +1,11 @@
+---
+applications:
+- name: springboot-admin-demo
+  instances: 1
+  path: ./target/springboot-admin-demo.war
+  buildpack: liberty-for-java
+  memory: 512M
+  domain: mybluemix.net
+  disk_quota: 256M
+  services:
+  - sample-java-cloudant-cloudantNoSQLDB
