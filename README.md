@@ -6,7 +6,7 @@ The goal of this lab is to demonstrate deploying a simple Java web application t
 
 This repository is part of a set of microservices that exist under the naming scheme of [spring-boot-continuous-delivery](https://github.com/IBM/spring-boot-continuous-delivery).
 
-The application found here is deployed in the toolchain found in the main project repository. To view the main repository and its associated README please go to: [https://github.com/IBM/spring-boot-continuous-delivery](https://github.com/IBM/spring-boot-continuous-delivery).
+The application found here is deployed in the toolchain found in the main project repository. To view the main repository and its associated README please go to: [https://github.com/IBM/spring-boot-continuous-delivery](https://github.com/IBM/spring-boot-continuous-delivery)
 
 ## Steps
 
