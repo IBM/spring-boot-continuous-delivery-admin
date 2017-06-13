@@ -1,6 +1,8 @@
 # Spring Boot on Bluemix with IBM Continuous Delivery
 
-The goal of this lab is to demonstrate deploying a simple Java web application to Bluemix with a DevOps pipeline for managing the application lifecycle. The goal for the application found here is to demonstrate a self contained, independent microservice that connects to a Cloudant DB database named `sample-java-cloudant-cloudantNoSQLDB`. The microservice's function is to provide an admin interface for searching account entries found in the afore mentioned database instance.
+The goal of this lab is to demonstrate deploying a simple Java web application to Bluemix with a DevOps pipeline for managing the application lifecycle. The goal for the application found here is to demonstrate a self contained, independent microservice that connects to a Cloudant DB database named `sample-java-cloudant-cloudantNoSQLDB`.
+
+This microservice's function is to provide an admin interface for searching account entries found in the afore mentioned database instance.
 
 ## Application Information
 
